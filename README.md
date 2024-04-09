@@ -7,13 +7,13 @@
 ## Features
  - [ ] Wallet Verification
    - Automatically verifies supported wallets against PGP verified SHA-256 checksums
- - [ ] Clipboard Guardian
+ - [ ] Clipboard Guardian (see https://github.com/BrantaOps/branta-android/issues/2)
    - Get notified of bitcoin-related activity on your clipboard
  - [ ] Focus Automation
    - Verify Wallets upon launch & Notify User
 
 #### Supported Wallets
-- [ ] tbd
+- [ ] tbd (see https://github.com/BrantaOps/branta-android/issues/1)
 
 ## Installing
 
